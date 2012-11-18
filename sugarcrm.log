@@ -1,0 +1,438 @@
+Sun Nov 18 20:15:41 2012 [32017][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:15:41 2012 [32017][-none-][FATAL] could not write to install.log: installerHook: Could not find custom/install/install_hooks.php
+Sun Nov 18 20:15:44 2012 [32017][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:15:44 2012 [32017][-none-][FATAL] could not write to install.log: installerHook: Could not find custom/install/install_hooks.php
+Sun Nov 18 20:16:09 2012 [32026][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:16:09 2012 [32026][-none-][FATAL] could not write to install.log: installerHook: Could not find custom/install/install_hooks.php
+Sun Nov 18 20:16:13 2012 [32026][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:16:13 2012 [32026][-none-][FATAL] could not write to install.log: Begin System Check Process *************
+Sun Nov 18 20:16:13 2012 [32026][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:16:13 2012 [32026][-none-][FATAL] could not write to install.log: XML Parsing Support Found
+Sun Nov 18 20:16:13 2012 [32026][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:16:13 2012 [32026][-none-][FATAL] could not write to install.log: MBString Support Found
+Sun Nov 18 20:16:13 2012 [32026][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:16:13 2012 [32026][-none-][FATAL] could not write to install.log: ZIP Support Found
+Sun Nov 18 20:16:13 2012 [32026][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:16:13 2012 [32026][-none-][FATAL] could not write to install.log: /custom directory and subdirectory check passed
+Sun Nov 18 20:16:13 2012 [32026][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:16:13 2012 [32026][-none-][FATAL] could not write to install.log: cache directory and subdirectory check passed
+Sun Nov 18 20:16:13 2012 [32026][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:16:13 2012 [32026][-none-][FATAL] could not write to install.log: /module  directory and subdirectory check passed
+Sun Nov 18 20:16:13 2012 [32026][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:16:13 2012 [32026][-none-][FATAL] could not write to install.log: /upload directory check passed
+Sun Nov 18 20:16:13 2012 [32026][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:16:13 2012 [32026][-none-][FATAL] could not write to install.log: /zip check passed
+Sun Nov 18 20:16:13 2012 [32026][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:16:13 2012 [32026][-none-][FATAL] could not write to install.log: installerHook: Could not find custom/install/install_hooks.php
+Sun Nov 18 20:16:13 2012 [32026][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:16:13 2012 [32026][-none-][FATAL] could not write to install.log: php.ini location found. /etc/php5/apache2/php.ini
+Sun Nov 18 20:16:13 2012 [32026][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:16:13 2012 [32026][-none-][FATAL] could not write to install.log: Outputting HTML for System check
+Sun Nov 18 20:16:13 2012 [32026][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:16:13 2012 [32026][-none-][FATAL] could not write to install.log: No Errors were found *************
+Sun Nov 18 20:16:15 2012 [32026][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:16:15 2012 [32026][-none-][FATAL] could not write to install.log: installerHook: Could not find custom/install/install_hooks.php
+Sun Nov 18 20:16:18 2012 [32026][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:16:18 2012 [32026][-none-][FATAL] could not write to install.log: installerHook: Could not find custom/install/install_hooks.php
+Sun Nov 18 20:16:19 2012 [32026][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:16:19 2012 [32026][-none-][FATAL] could not write to install.log: installerHook: Could not find custom/install/install_hooks.php
+Sun Nov 18 20:16:45 2012 [32018][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:16:45 2012 [32018][-none-][FATAL] could not write to install.log: Begin DB Check Process *************
+Sun Nov 18 20:16:45 2012 [32018][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:16:45 2012 [32018][-none-][FATAL] could not write to install.log: testing with mysql:mysqli
+Sun Nov 18 20:16:45 2012 [32018][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:16:45 2012 [32018][-none-][FATAL] could not write to install.log: Basic form info is valid, continuing Process.
+Sun Nov 18 20:16:45 2012 [32018][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:16:45 2012 [32018][-none-][FATAL] could not write to install.log: Testing user account...
+Sun Nov 18 20:16:45 2012 [32018][-none-][FATAL] Could not connect to DB server localhost as root. port : Access denied for user 'root'@'localhost' (using password: YES)
+Sun Nov 18 20:16:45 2012 [32018][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:16:45 2012 [32018][-none-][FATAL] could not write to install.log: ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+Sun Nov 18 20:16:45 2012 [32018][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:16:45 2012 [32018][-none-][FATAL] could not write to install.log: Testing priviliged account...
+Sun Nov 18 20:16:45 2012 [32018][-none-][FATAL] Could Not Connect: Database Is Not Connected
+Sun Nov 18 20:16:45 2012 [32018][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:16:45 2012 [32018][-none-][FATAL] could not write to install.log: Connection made using  host: localhost, usr: root
+Sun Nov 18 20:16:45 2012 [32018][-none-][FATAL]  Query Failed: SELECT SCHEMA_NAME FROM INFORMATION_SCHEMA.SCHEMATA WHERE SCHEMA_NAME = '' LIMIT 0,1: Database Is Not Connected
+Sun Nov 18 20:16:45 2012 [32018][-none-][FATAL]  Get One Failed:SELECT SCHEMA_NAME FROM INFORMATION_SCHEMA.SCHEMATA WHERE SCHEMA_NAME = '': Database Is Not Connected
+Sun Nov 18 20:16:45 2012 [32018][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:16:45 2012 [32018][-none-][FATAL] could not write to install.log: DB not selected, will create sugarcrmtest
+Sun Nov 18 20:16:45 2012 [32018][-none-][FATAL]  Query Failed: SELECT version() version LIMIT 0,1: Database Is Not Connected
+Sun Nov 18 20:16:45 2012 [32018][-none-][FATAL]  Get One Failed:SELECT version() version: Database Is Not Connected
+Sun Nov 18 20:16:45 2012 [32018][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:16:45 2012 [32018][-none-][FATAL] could not write to install.log: ERROR:: Unable to check database version.
+Sun Nov 18 20:16:45 2012 [32018][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:16:45 2012 [32018][-none-][FATAL] could not write to install.log: FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+Sun Nov 18 20:16:45 2012 [32018][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:16:45 2012 [32018][-none-][FATAL] could not write to install.log: .. The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+Sun Nov 18 20:16:45 2012 [32018][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:16:45 2012 [32018][-none-][FATAL] could not write to install.log: .. Unable to check database version.
+Sun Nov 18 20:16:45 2012 [32018][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:16:45 2012 [32018][-none-][FATAL] could not write to install.log: End DB Check Process *************
+Sun Nov 18 20:24:52 2012 [32017][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:24:52 2012 [32017][-none-][FATAL] could not write to install.log: Begin DB Check Process *************
+Sun Nov 18 20:24:52 2012 [32017][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:24:52 2012 [32017][-none-][FATAL] could not write to install.log: testing with mysql:mysqli
+Sun Nov 18 20:24:52 2012 [32017][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:24:52 2012 [32017][-none-][FATAL] could not write to install.log: Basic form info is valid, continuing Process.
+Sun Nov 18 20:24:52 2012 [32017][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:24:52 2012 [32017][-none-][FATAL] could not write to install.log: Testing priviliged account...
+Sun Nov 18 20:24:52 2012 [32017][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:24:52 2012 [32017][-none-][FATAL] could not write to install.log: Connection made using  host: localhost, usr: sugarcrmtest
+Sun Nov 18 20:24:52 2012 [32017][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:24:52 2012 [32017][-none-][FATAL] could not write to install.log: DB not selected, will create sugarcrmtest
+Sun Nov 18 20:24:52 2012 [32017][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:24:52 2012 [32017][-none-][FATAL] could not write to install.log: Passed DB install check
+Sun Nov 18 20:24:52 2012 [32017][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:24:52 2012 [32017][-none-][FATAL] could not write to install.log: SUCCESS:: no errors detected!
+Sun Nov 18 20:24:52 2012 [32017][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:24:52 2012 [32017][-none-][FATAL] could not write to install.log: End DB Check Process *************
+Sun Nov 18 20:24:52 2012 [32017][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:24:52 2012 [32017][-none-][FATAL] could not write to install.log: installerHook: Could not find custom/install/install_hooks.php
+Sun Nov 18 20:25:02 2012 [32016][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:02 2012 [32016][-none-][FATAL] could not write to install.log: installerHook: Could not find custom/install/install_hooks.php
+Sun Nov 18 20:25:08 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:08 2012 [32153][-none-][FATAL] could not write to install.log: installerHook: Could not find custom/install/install_hooks.php
+Sun Nov 18 20:25:08 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:08 2012 [32153][-none-][FATAL] could not write to install.log: calling handleSugarConfig()
+Sun Nov 18 20:25:08 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:08 2012 [32153][-none-][FATAL] could not write to install.log: calling handleLog4Php()
+Sun Nov 18 20:25:08 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:08 2012 [32153][-none-][FATAL] could not write to install.log: calling handleHtaccess()
+Sun Nov 18 20:25:08 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:08 2012 [32153][-none-][FATAL] could not write to install.log: calling handleDbCreateDatabase()
+Sun Nov 18 20:25:09 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:09 2012 [32153][-none-][FATAL] could not write to install.log: looping through all the Beans and create their tables
+Sun Nov 18 20:25:09 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:09 2012 [32153][-none-][FATAL] could not write to install.log: processing table acl_actions
+Sun Nov 18 20:25:09 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:09 2012 [32153][-none-][FATAL] could not write to install.log: creating table acl_actions
+Sun Nov 18 20:25:09 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:09 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for ACLAction
+Sun Nov 18 20:25:09 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:09 2012 [32153][-none-][FATAL] could not write to install.log: processing table acl_roles
+Sun Nov 18 20:25:09 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:09 2012 [32153][-none-][FATAL] could not write to install.log: creating table acl_roles
+Sun Nov 18 20:25:09 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:09 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for ACLRole
+Sun Nov 18 20:25:09 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:09 2012 [32153][-none-][FATAL] could not write to install.log: processing table relationships
+Sun Nov 18 20:25:09 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:09 2012 [32153][-none-][FATAL] could not write to install.log: creating table relationships
+Sun Nov 18 20:25:09 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:09 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for Relationship
+Sun Nov 18 20:25:09 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:09 2012 [32153][-none-][FATAL] could not write to install.log: processing table leads
+Sun Nov 18 20:25:09 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:09 2012 [32153][-none-][FATAL] could not write to install.log: creating table leads
+Sun Nov 18 20:25:09 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:09 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for Lead
+Sun Nov 18 20:25:09 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:09 2012 [32153][-none-][FATAL] could not write to install.log: processing table cases
+Sun Nov 18 20:25:09 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:09 2012 [32153][-none-][FATAL] could not write to install.log: creating table cases
+Sun Nov 18 20:25:09 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:09 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for Case
+Sun Nov 18 20:25:09 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:09 2012 [32153][-none-][FATAL] could not write to install.log: processing table bugs
+Sun Nov 18 20:25:09 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:09 2012 [32153][-none-][FATAL] could not write to install.log: creating table bugs
+Sun Nov 18 20:25:09 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:09 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for Bug
+Sun Nov 18 20:25:10 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:10 2012 [32153][-none-][FATAL] could not write to install.log: processing table users
+Sun Nov 18 20:25:10 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:10 2012 [32153][-none-][FATAL] could not write to install.log: creating table users
+Sun Nov 18 20:25:10 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:10 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for User
+Sun Nov 18 20:25:10 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:10 2012 [32153][-none-][FATAL] could not write to install.log: processing table campaign_log
+Sun Nov 18 20:25:10 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:10 2012 [32153][-none-][FATAL] could not write to install.log: creating table campaign_log
+Sun Nov 18 20:25:10 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:10 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for CampaignLog
+Sun Nov 18 20:25:10 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:10 2012 [32153][-none-][FATAL] could not write to install.log: processing table project
+Sun Nov 18 20:25:10 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:10 2012 [32153][-none-][FATAL] could not write to install.log: creating table project
+Sun Nov 18 20:25:10 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:10 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for Project
+Sun Nov 18 20:25:10 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:10 2012 [32153][-none-][FATAL] could not write to install.log: processing table project_task
+Sun Nov 18 20:25:10 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:10 2012 [32153][-none-][FATAL] could not write to install.log: creating table project_task
+Sun Nov 18 20:25:10 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:10 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for ProjectTask
+Sun Nov 18 20:25:10 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:10 2012 [32153][-none-][FATAL] could not write to install.log: processing table campaigns
+Sun Nov 18 20:25:10 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:10 2012 [32153][-none-][FATAL] could not write to install.log: creating table campaigns
+Sun Nov 18 20:25:10 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:10 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for Campaign
+Sun Nov 18 20:25:10 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:10 2012 [32153][-none-][FATAL] could not write to install.log: processing table prospect_lists
+Sun Nov 18 20:25:10 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:10 2012 [32153][-none-][FATAL] could not write to install.log: creating table prospect_lists
+Sun Nov 18 20:25:10 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:10 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for ProspectList
+Sun Nov 18 20:25:10 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:10 2012 [32153][-none-][FATAL] could not write to install.log: processing table prospects
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not write to install.log: creating table prospects
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for Prospect
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not write to install.log: processing table email_marketing
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not write to install.log: creating table email_marketing
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for EmailMarketing
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not write to install.log: processing table campaign_trkrs
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not write to install.log: creating table campaign_trkrs
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for CampaignTracker
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not write to install.log: processing table releases
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not write to install.log: creating table releases
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for Release
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not write to install.log: processing table emailman
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not write to install.log: creating table emailman
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for EmailMan
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not write to install.log: processing table schedulers
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not write to install.log: creating table schedulers
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for Scheduler
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not write to install.log: processing table job_queue
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not write to install.log: creating table job_queue
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for SchedulersJob
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not write to install.log: processing table contacts
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not write to install.log: creating table contacts
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for Contact
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not write to install.log: processing table accounts
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not write to install.log: creating table accounts
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for Account
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:11 2012 [32153][-none-][FATAL] could not write to install.log: processing table opportunities
+Sun Nov 18 20:25:12 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:12 2012 [32153][-none-][FATAL] could not write to install.log: creating table opportunities
+Sun Nov 18 20:25:12 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:12 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for Opportunity
+Sun Nov 18 20:25:12 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:12 2012 [32153][-none-][FATAL] could not write to install.log: processing table email_templates
+Sun Nov 18 20:25:12 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:12 2012 [32153][-none-][FATAL] could not write to install.log: creating table email_templates
+Sun Nov 18 20:25:12 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:12 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for EmailTemplate
+Sun Nov 18 20:25:12 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:12 2012 [32153][-none-][FATAL] could not write to install.log: processing table notes
+Sun Nov 18 20:25:12 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:12 2012 [32153][-none-][FATAL] could not write to install.log: creating table notes
+Sun Nov 18 20:25:12 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:12 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for Note
+Sun Nov 18 20:25:12 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:12 2012 [32153][-none-][FATAL] could not write to install.log: processing table calls
+Sun Nov 18 20:25:12 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:12 2012 [32153][-none-][FATAL] could not write to install.log: creating table calls
+Sun Nov 18 20:25:12 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:12 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for Call
+Sun Nov 18 20:25:12 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:12 2012 [32153][-none-][FATAL] could not write to install.log: processing table emails
+Sun Nov 18 20:25:12 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:12 2012 [32153][-none-][FATAL] could not write to install.log: creating table emails
+Sun Nov 18 20:25:12 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:12 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for Email
+Sun Nov 18 20:25:12 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:12 2012 [32153][-none-][FATAL] could not write to install.log: processing table meetings
+Sun Nov 18 20:25:12 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:12 2012 [32153][-none-][FATAL] could not write to install.log: creating table meetings
+Sun Nov 18 20:25:12 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:12 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for Meeting
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: processing table tasks
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating table tasks
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for Task
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: processing table users
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: processing table users
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: processing table currencies
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating table currencies
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for Currency
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: processing table tracker
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating table tracker
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for Tracker
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: processing table import_maps
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating table import_maps
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for ImportMap
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: processing table users_last_import
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating table users_last_import
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for UsersLastImport
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: processing table config
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating table config
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for Administration
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: processing table upgrade_history
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating table upgrade_history
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for UpgradeHistory
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: processing table vcals
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating table vcals
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for vCal
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: processing table versions
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating table versions
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for Version
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: processing table roles
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating table roles
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for Role
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: processing table documents
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating table documents
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for Document
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: processing table document_revisions
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating table document_revisions
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for DocumentRevision
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: processing table fields_meta_data
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating table fields_meta_data
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for FieldsMetaData
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: processing table inbound_email
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating table inbound_email
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for InboundEmail
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: processing table saved_search
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating table saved_search
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for SavedSearch
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: processing table user_preferences
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating table user_preferences
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for UserPreference
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: processing table 
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: processing table email_addresses
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating table email_addresses
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for EmailAddress
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: processing table emails_text
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating table emails_text
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for EmailText
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: processing table sugarfeed
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating table sugarfeed
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for SugarFeed
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: processing table eapm
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating table eapm
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for EAPM
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: processing table oauth_consumer
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating table oauth_consumer
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for OAuthKey
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:13 2012 [32153][-none-][FATAL] could not write to install.log: processing table oauth_tokens
+Sun Nov 18 20:25:14 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:14 2012 [32153][-none-][FATAL] could not write to install.log: creating table oauth_tokens
+Sun Nov 18 20:25:14 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:14 2012 [32153][-none-][FATAL] could not write to install.log: creating Relationship Meta for OAuthToken
+Sun Nov 18 20:25:15 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:15 2012 [32153][-none-][FATAL] could not write to install.log: Begin creating Defaults
+Sun Nov 18 20:25:15 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:15 2012 [32153][-none-][FATAL] could not write to install.log: insert defaults into config table
+Sun Nov 18 20:25:15 2012 [32153][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:25:15 2012 [32153][-none-][FATAL] could not write to install.log: Creating default users
+Sun Nov 18 20:25:15 2012 [32153][1][FATAL] could not create the install.log file
+Sun Nov 18 20:25:15 2012 [32153][1][FATAL] could not write to install.log: Creating default scheduler jobs
+Sun Nov 18 20:25:15 2012 [32153][1][FATAL] could not create the install.log file
+Sun Nov 18 20:25:15 2012 [32153][1][FATAL] could not write to install.log: Enable SugarFeeds
+Sun Nov 18 20:25:15 2012 [32153][1][FATAL] could not create the install.log file
+Sun Nov 18 20:25:15 2012 [32153][1][FATAL] could not write to install.log: Enable InsideView Connector
+Sun Nov 18 20:25:15 2012 [32153][1][FATAL] could not create the install.log file
+Sun Nov 18 20:25:15 2012 [32153][1][FATAL] could not write to install.log: Creating FTS logic hook
+Sun Nov 18 20:25:15 2012 [32153][1][FATAL] could not create the install.log file
+Sun Nov 18 20:25:15 2012 [32153][1][FATAL] could not write to install.log: populating the db with seed data
+Sun Nov 18 20:25:15 2012 [32153][1][FATAL] could not create the install.log file
+Sun Nov 18 20:25:15 2012 [32153][1][FATAL] could not write to install.log: Installation has completed *********
+Sun Nov 18 20:29:45 2012 [32028][-none-][FATAL] could not create the install.log file
+Sun Nov 18 20:29:45 2012 [32028][-none-][FATAL] could not write to install.log: installerHook: Could not find custom/install/install_hooks.php
+Sun Nov 18 20:29:52 2012 [32019][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone UTC. Please set date.timezone="UTC" in php.ini!
+Sun Nov 18 20:29:52 2012 [32019][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone UTC. Please set date.timezone="UTC" in php.ini!
+Sun Nov 18 20:29:56 2012 [32017][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone UTC. Please set date.timezone="UTC" in php.ini!
+Sun Nov 18 20:29:57 2012 [32017][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone UTC. Please set date.timezone="UTC" in php.ini!
+Sun Nov 18 20:30:55 2012 [32027][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone UTC. Please set date.timezone="UTC" in php.ini!
+Sun Nov 18 20:30:55 2012 [32027][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone UTC. Please set date.timezone="UTC" in php.ini!
+Sun Nov 18 20:30:58 2012 [32027][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone UTC. Please set date.timezone="UTC" in php.ini!
+Sun Nov 18 20:31:00 2012 [32027][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone UTC. Please set date.timezone="UTC" in php.ini!
+Sun Nov 18 20:31:00 2012 [32027][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone UTC. Please set date.timezone="UTC" in php.ini!
+Sun Nov 18 20:31:40 2012 [32028][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone UTC. Please set date.timezone="UTC" in php.ini!
+Sun Nov 18 20:31:41 2012 [32028][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone UTC. Please set date.timezone="UTC" in php.ini!
+Sun Nov 18 20:31:53 2012 [32026][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone UTC. Please set date.timezone="UTC" in php.ini!
+Sun Nov 18 20:31:53 2012 [32026][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone UTC. Please set date.timezone="UTC" in php.ini!
+Sun Nov 18 20:31:57 2012 [32026][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone UTC. Please set date.timezone="UTC" in php.ini!
